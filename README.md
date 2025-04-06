@@ -1,104 +1,101 @@
-# 👋 Hi there, I'm Akhila Muthyala
+# Hey there! 👋 I'm Akhila Muthyala
 
-🎯 **Full Stack Software Engineer**  
-📍 Irving, TX | 💌 muthyala.akhila07@gmail.com  
-🌐 [Portfolio](https://amuthyal.github.io/my-portfolio) | [LinkedIn](https://linkedin.com/in/akhila-muthyala-48b776209) | [GitHub](https://github.com/amuthyal)
+💻 Full Stack Sorceress | ☁️ Cloud Enthusiast | 🤖 AI Explorer | 🏎️ F1 Fan
 
----
-
-## 💼 About Me
-
-I'm a passionate Full Stack Developer with over **5 years** of experience in crafting scalable, efficient, and accessible applications. I specialize in building full-stack web apps using **React**, **Angular**, **Node.js**, and **GraphQL**. My work emphasizes performance optimization, CI/CD automation, and cloud-native development across AWS, Azure, and GCP.  
-
-Lately, I've been integrating **AI/ML** tools to build smarter user experiences, and I enjoy blending intelligent automation with beautiful, user-centric design.
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=react)](https://amuthyal.github.io/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhila-muthyala-48b776209)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/amuthyal)
 
 ---
 
-## 🔧 Tech Stack
+## 🌟 About Me
 
-**Languages:**  
-C, C++, Java, Python, JavaScript, TypeScript  
+Hi! I'm **Akhila**, a creative and results-driven **Full Stack Developer** with **5+ years** of experience building awesome things on the web. I craft scalable, user-friendly applications using **React**, **Angular**, **Node.js**, and sprinkle in some **GraphQL magic** 🪄.
 
-**Frameworks & Libraries:**  
-React, Angular, Node.js, Express, Redux, GraphQL, SpringBoot, Flask, Bootstrap, Firebase  
+These days, I'm diving deep into the world of **AI/ML**, using tech like **OpenAI**, **Amazon Bedrock**, and **FastF1** to build intelligent apps with a futuristic vibe 🚀.
 
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, DynamoDB, SQL Server  
-
-**Cloud & DevOps:**  
-AWS (Lambda, EC2, S3, SageMaker, Bedrock), Azure DevOps, GCP (Dialogflow), CI/CD, Kubernetes, Kafka, GitHub Actions  
-
-**Tools:**  
-Postman, Jira, Git, OpenAI GPT-3.5, FastF1 API, Amazon Kendra  
+When I’m not writing code, I’m probably:  
+🏎️ Geeking out over F1 race strategies  
+🎨 Designing clean UIs  
+📚 Mentoring devs or learning something new!
 
 ---
 
-## 🧠 Certifications
+## 🛠️ Tech Toolbox
 
-- **AWS Certified AI Practitioner** *(Valid: 2025–2028)*  
-[View Badge](https://www.credly.com/badges/85e42721-4207-4744-b8f6-ed7da452e126/public_url)
+Here are some of my favorite tools and technologies:
 
----
-
-## 📚 Education
-
-**Master's in Computer Science**  
-*Arizona State University* (2017–2019)  
-
-**Bachelor's in Computer Science**  
-*G.I.T.A.M University* (2013–2017)
+- 👩‍💻 **Languages:** Python, Java, C++, JavaScript, TypeScript  
+- ⚛️ **Frontend:** React, Angular, Redux, TypeScript, HTML/CSS, Bootstrap  
+- 🔧 **Backend:** Node.js, Express.js, Spring Boot, Flask, Firebase Functions  
+- 📊 **Databases:** PostgreSQL, MongoDB, DynamoDB, SQL Server  
+- ☁️ **Cloud & DevOps:** AWS, Azure, GCP, CI/CD, Kubernetes, Kafka, GitHub Actions  
+- 🧠 **AI/ML:** OpenAI GPT-3.5, LightGBM, Amazon Bedrock, SageMaker, Kendra  
+- 🔌 **APIs:** GraphQL, REST, FastF1 API  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Working On
 
-### 🔮 [F1 Analytics Predictor](https://github.com/amuthyal/f1-analytics-predictor)  
-ML-powered app to predict Formula 1 podium finishes and visualize driver/team performance.
+### 🏁 [F1 Analytics Predictor](https://github.com/amuthyal/f1-analytics-predictor)
+Predicting the **top 3 race finishers** like a virtual race strategist!  
+- 🧠 ML model trained on 2000–2024 data  
+- 📊 Charts for team & driver performance  
+- ⚙️ Flask + FastF1 backend, React frontend  
 
-- Predict top 3 race finishers using qualifying data
-- Real-time + historical data visualization
-- React frontend + Flask backend + ML ranking model
+### 📝 [Smart Note App](https://github.com/amuthyal/smart-note-gpt)
+An AI-powered note-taking app — like Notion, but smarter 🤓  
+- ✍️ Summarize notes with GPT-3.5  
+- 🔍 AI search + Firestore storage  
+- 💡 Simple, clean UI with modal editing  
 
-### 📝 [Smart Note App](https://github.com/amuthyal/smart-note-gpt)  
-AI-powered note-taking app built with GPT-3.5, React & Firebase.
-
-- Take, edit, and summarize notes
-- AI-powered search
-- Google Auth, Firestore persistence, responsive UI
-
-### 🌐 [Portfolio Website](https://amuthyal.github.io/my-portfolio)  
-Fully responsive portfolio showcasing projects, experience, and design skills.
-
-- Fullscreen scroll sections, timeline, dark neon theme
-- Animated sidebar menu and scroll-snapping
-- View: [Live Site](https://amuthyal.github.io/v3-portfolio)
-- View: [Live Site](https://amuthyal.github.io/my-portfolio)
+### 🌐 [My Portfolio](https://amuthyal.github.io/v3-portfolio)
+A sleek, scroll-snappy personal site that shows off my work ✨  
+- 🔗 Sidebar nav + scroll animations  
+- 📱 Fully responsive  
+- 🌒 Neon dark theme for that cool dev vibe
 
 ---
 
-## 🏢 Work Experience
+## 🧑‍💼 Experience Highlights
 
-### 💻 Full Stack Developer @ PwC *(2021–Present)*  
-- Built React + GraphQL components, improving data-fetching by 25%  
-- Integrated firm-wide systems (calendar, timesheets, goal tracking)  
-- Designed CI/CD pipelines, reducing deployment time by 40%  
-- Added chatbot integration with Amazon Kendra & Dialogflow
+**👩‍💻 Full Stack Developer @ PwC (2021–Now)**  
+- Built React + GraphQL dashboards  
+- Automated CI/CD pipelines  
+- Integrated Kendra & Dialogflow for smarter chatbots  
+- Optimized performance by 30% ⚡
 
-### 💻 Full Stack Developer @ CRMC *(2019–2021)*  
-- Built EHR front-end in React + TypeScript for 300+ providers  
-- Developed secure auth with OAuth 2.0 and RBAC  
-- Improved performance and optimized MongoDB/PostgreSQL queries
+**👩‍💻 Full Stack Developer @ CRMC (2019–2021)**  
+- Built EHR front-end used by 300+ healthcare providers  
+- Integrated Redux, GraphQL, and secure auth  
+- Reduced page load times by 30% 🚀
+
+---
+
+## 🎓 Education & Certs
+
+🎓 **M.S. in Computer Science** – Arizona State University  
+🎓 **B.S. in Computer Science** – GITAM University  
+📜 **AWS Certified AI Practitioner** *(2025–2028)*  
+[🎖️ View Badge](https://www.credly.com/badges/85e42721-4207-4744-b8f6-ed7da452e126/public_url)
+
+---
+
+## 🧩 Fun Facts
+
+- 🔍 I love debugging like it’s a treasure hunt 🏴‍☠️  
+- 🧠 I'm always experimenting with new AI models  
+- 🏁 Sundays = race day. Go F1!  
+- ☕ Coffee makes my code compile 😄
 
 ---
 
 ## 🤝 Let's Connect
 
-Feel free to reach out or explore my work:
-
-📧 muthyala.akhila07@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/akhila-muthyala-48b776209)  
-🌐 [Portfolio](https://amuthyal.github.io/my-portfolio)
+📬 **Email:** muthyala.akhila07@gmail.com  
+🔗 **LinkedIn:** [akhila-muthyala](https://linkedin.com/in/akhila-muthyala-48b776209)  
+🌐 **Portfolio:** [amuthyal.github.io](https://amuthyal.github.io/my-portfolio)
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+_Thanks for stopping by! May your code be bug-free and your internet fast ⚡_
