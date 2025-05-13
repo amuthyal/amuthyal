@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Hi! I'm **Akhila**, a creative and results-driven **Full Stack Developer** with **5+ years** of experience building awesome things on the web. I craft scalable, user-friendly applications using **React**, **Angular**, **Node.js**, and sprinkle in some **GraphQL magic** 🪄.
+Hi! I'm **Akhila**, a creative and results-driven **Full Stack Developer** with experience building awesome things on the web. I craft scalable, user-friendly applications using **React**, **Angular**, **Node.js**, and sprinkle in some **GraphQL magic** 🪄.
 
 These days, I'm diving deep into the world of **AI/ML**, using tech like **OpenAI**, **Amazon Bedrock**, and **FastF1** to build intelligent apps with a futuristic vibe 🚀.
 
